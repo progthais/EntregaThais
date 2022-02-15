@@ -1,0 +1,18 @@
+
+#container{
+
+
+
+        background-size: cover;
+        border: solid 1px;
+        align-content: center;
+
+        width:980px;
+        height:auto;
+        align-items: center;
+        padding:10px;
+        background-image:url("../img/white.jpg");
+        background-repeat: no-repeat;
+
+        }
+        

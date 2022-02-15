@@ -1,0 +1,81 @@
+#topo{
+height: 82px;
+}
+
+img{
+float:left;      
+height:52px;
+width: 52px;
+margin-right:5px;
+
+}
+
+.titulo{
+margin-right: 130px;    
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:#d12929;
+font-weight:bold;
+}
+
+header{
+  border-radius: 5px;
+
+border: solid 1px;
+margin-left: auto;
+margin-right: auto;
+
+background-size: cover;
+width:1000px;
+height:150px;
+background-image:url("../img/header.png");
+background-repeat: no-repeat;
+background-position: 50% 100%;
+
+    }
+    
+  .menu{
+    width:auto;
+    height:auto;
+    background-color: #34404b;
+    background-image: cover;
+    align-items: right;
+    border-top: solid 1px;
+    border-radius: 5px;
+
+  }
+    .menu ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+
+
+    }
+    
+    .menu li {
+
+    padding: 10px;
+    display: inline-block;
+    
+    }
+    
+    .menu li a {
+  
+    display: block;
+    color:#f7eeee;
+    text-align: center;
+    padding: 5px 15px;
+    text-decoration: none;
+    font-weight:bold;
+    }
+    
+    li a:hover {
+    background-color: #413535;
+
+    }
+        
+span{
+    margin-right: 2px;
+
+    }

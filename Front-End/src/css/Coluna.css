@@ -1,0 +1,28 @@
+
+
+blockquote{
+    margin:0;
+    font-style: italic;
+}
+    
+
+#coluna{
+    min-height:990px;
+    width:220px;
+    float:right;
+    border-left:2px #3f1136;
+    border-left-style: double;
+    }
+    
+#coluna ul li{
+    height:auto;
+ width: auto;
+display:inline-block;
+    
+}  
+ 
+.star{
+    
+width: 100px;
+height: 30px;
+}

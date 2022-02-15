@@ -1,0 +1,60 @@
+
+p{
+
+text-align: justify;
+}
+
+
+
+h2{
+    width:auto;
+    height:auto;
+    text-align: center;
+
+}
+
+
+#conteudo{
+    text-align: left;
+    width:auto;
+    height:auto;
+    padding-right:30px;
+    margin-right: 210px ;
+    }
+
+    
+#container{
+
+    background-size: cover;
+    border: solid 1px;
+    background-image:url("../img/white.jpg");
+    background-repeat: no-repeat;
+    width:980px;
+    height:auto;
+    margin:auto;
+    
+    background-color:#f2f2f2;
+    padding:10px;
+    display:table;
+    
+    }
+
+    .fotos{
+    padding:20px; ;
+    height:320px;
+    width: 320px;
+    display:inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-bottom: 5px;
+    }
+
+    .fotos:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    #card{
+height: auto;
+width: auto;
+
+    }

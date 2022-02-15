@@ -1,0 +1,21 @@
+
+.cardnovidade {
+    display:inline-block;
+    width:90%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 2px 16px;
+    align-content: left;
+    
+    }
+    
+    .cardnovidade:hover {
+    box-shadow: 8px 8px 8px 8px rgba(16, 160, 196, 0.2);
+    }
+
+    #cardnovidadeinterior{
+        text-align: left;
+
+        padding: 2px 16px;
+
+    }

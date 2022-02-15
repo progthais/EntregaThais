@@ -1,0 +1,21 @@
+#rodape{
+ 
+    background-size: cover;
+    width:1000px;
+    height:auto;
+    margin:auto;
+    border: solid 1px;
+    border-radius: 5px;
+    background-color: #34404b;
+    
+}
+
+#rodape ul li{
+padding: 15px;
+display: inline;
+}
+
+a{
+    color:#f7eeee;
+
+}
